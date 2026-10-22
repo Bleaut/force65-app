@@ -1,0 +1,27 @@
+FORCE 65+ — Programme de sport illustré
+
+FICHIER SIMPLE
+Ouvrir index.html dans un navigateur pour consulter les séances. Les schémas,
+styles et scripts sont inclus dans le fichier : aucune connexion n'est requise
+une fois le fichier téléchargé. Le chronomètre et les cases à cocher fonctionnent
+là où le navigateur autorise JavaScript et le stockage local.
+
+INSTALLER SUR L'ÉCRAN D'ACCUEIL D'UN IPHONE
+1. Publier ensemble les fichiers de ce dossier sur un hébergement HTTPS
+   (par exemple GitHub Pages, dans la racine d'un dépôt public ou privé compatible).
+2. Sur l'iPhone, ouvrir l'adresse de la page depuis Safari.
+3. Dans Safari : Partager > Sur l'écran d'accueil.
+4. Activer « Ouvrir comme app web », puis toucher Ajouter.
+5. Lancer l'application une première fois avec Internet pour préparer le cache
+   hors connexion. Les consultations suivantes peuvent fonctionner hors ligne.
+
+Pour GitHub Pages : créer un dépôt contenant ces fichiers directement à la racine ;
+dans Settings > Pages, sélectionner Deploy from a branch, branche main, dossier
+/(root). Après déploiement, ouvrir l'URL fournie par GitHub Pages.
+
+IMPORTANT
+- Le suivi par cases cochées reste enregistré localement sur l'iPhone et n'est
+  pas synchronisé entre appareils.
+- Ces illustrations vectorielles sont des schémas simplifiés.
+- Le programme est indicatif, à adapter à la capacité réelle de la personne.
+- Au démarrage, utiliser seulement 2 séances/semaine et augmenter progressivement.
