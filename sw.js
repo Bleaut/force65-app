@@ -1,4 +1,4 @@
-const CACHE='force65-offline-v5';
+const CACHE='force65-offline-v6';
 const RESOURCES=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(RESOURCES)).then(()=>self.skipWaiting()));
